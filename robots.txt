@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mnr92308.github.io/Guardian-Spirit-PC/sitemap.xml
